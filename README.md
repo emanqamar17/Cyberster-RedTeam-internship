@@ -81,22 +81,15 @@ Throughout this internship I aim to:
 
 ---
 
-# Internship Progress
+## Internship Progress
 
-| Week | Topic | Status |
-|------|-------|--------|
-| Week 01 | Passive Reconnaissance & OSINT | ✅ Completed |
-| Week 02 | Vulnerability Assessment | ✅ Completed |
-| Week 03 | Information Gathering & Enumeration | ✅ Completed |
-| Week 04 | Web Application Penetration Testing | ✅ Completed |
-| Week 05 | Coming Soon | ⏳ |
-| Week 06 | Coming Soon | ⏳ |
-| Week 07 | Coming Soon | ⏳ |
-| Week 08 | Coming Soon | ⏳ |
-| Week 09 | Coming Soon | ⏳ |
-| Week 10 | Coming Soon | ⏳ |
-| Week 11 | Coming Soon | ⏳ |
-| Week 12 | Coming Soon | ⏳ |
+| Week | Module | Documentation |
+|------|--------|---------------|
+| Week 01 | Passive Reconnaissance & OSINT | ✅ [Open](Week-01-Passive-Reconnaissance/) |
+| Week 02 | Vulnerability Assessment | 🚧 Coming Soon |
+| Week 03 | Information Gathering & Enumeration | 🚧 Coming Soon |
+| Week 04 | Web Application Penetration Testing | 🚧 Coming Soon |
+| Week 05–12 | In Progress | ⏳ |
 
 ---
 
