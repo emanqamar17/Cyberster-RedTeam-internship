@@ -1,8 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="assets/repository-banner.png" alt="Cyberster Red Team Internship Banner" width="100%">
+</p>
 
-# Cyberster Red Team Internship
+<h1 align="center">Cyberster Red Team Internship</h1>
 
-### Practical Documentation & Hands-on Learning Portfolio
+<p align="center">
+Practical Documentation & Hands-on Learning Portfolio
+</p>
 
 This repository documents my practical work, methodologies, tools, and lessons learned throughout a **12-week Red Team Internship** at **Cyberster**.
 
