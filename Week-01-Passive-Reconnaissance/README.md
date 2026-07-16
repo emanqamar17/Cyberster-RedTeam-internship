@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/week-01-banner.png" alt="Week 01 Passive Reconnaissance Banner" width="100%">
+</p>
+
 # Week 01 – Passive Reconnaissance & OSINT
 
 ## Overview
