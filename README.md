@@ -90,7 +90,7 @@ Throughout this internship I aim to:
 | Week | Module | Documentation |
 |------|--------|---------------|
 | Week 01 | Passive Reconnaissance & OSINT | ✅ [Open](Week-01-Passive-Reconnaissance/) |
-| Week 02 | Vulnerability Assessment | 🚧 Coming Soon |
+| Week 02 | Vulnerability Assessment | ✅ [Open](Week-02-Vulnerability-Assessment/) |
 | Week 03 | Information Gathering & Enumeration | 🚧 Coming Soon |
 | Week 04 | Web Application Penetration Testing | 🚧 Coming Soon |
 | Week 05–12 | In Progress | ⏳ |
