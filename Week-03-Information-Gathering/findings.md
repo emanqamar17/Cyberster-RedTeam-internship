@@ -67,6 +67,7 @@ Exposed directories such as `/.git` and `/backup`, along with parameters like `?
 | PHP | 5.2.4 | Multiple CVEs | High |
 | OpenSSH | 4.7p1 | CVE-2008-1657 | Medium |
 
+![Searchsploit CVE Research](images/searchsploit-cve-research.png)
 ---
 
 # Exploitation Results
