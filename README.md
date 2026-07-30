@@ -16,7 +16,7 @@ The objective of this repository is not only to showcase completed tasks but als
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 ![Internship](https://img.shields.io/badge/Duration-12%20Weeks-blue)
-![Current Week](https://img.shields.io/badge/Completed-4%20Weeks-success)
+![Current Week](https://img.shields.io/badge/Completed-3%20Weeks-success)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-informational)
 ![Focus](https://img.shields.io/badge/Focus-Web%20Application%20Security-red)
 
@@ -91,7 +91,7 @@ Throughout this internship I aim to:
 |------|--------|---------------|
 | Week 01 | Passive Reconnaissance & OSINT | ✅ [Open](Week-01-Passive-Reconnaissance/) |
 | Week 02 | Vulnerability Assessment | ✅ [Open](Week-02-Vulnerability-Assessment/) |
-| Week 03 | Information Gathering & Enumeration | 🚧 Coming Soon |
+| Week 03 | Information Gathering & Enumeration | ✅ [Open](Week-03-Information-Gathering/) |
 | Week 04 | Web Application Penetration Testing | 🚧 Coming Soon |
 | Week 05–12 | In Progress | ⏳ |
 
