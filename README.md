@@ -83,6 +83,24 @@ Throughout this internship I aim to:
 - Gobuster
 - DNSDumpster
 
+## Exploitation & Vulnerability Assessment
+- Metasploit Framework
+- Searchsploit
+- CVE Research (NVD / Exploit-DB)
+- Exploit Verification & Validation
+
+## Web Directory & Parameter Discovery
+- FFUF
+- Dirsearch
+- Gobuster
+- Arjun
+- ParamSpider
+
+## CMS Security Assessment
+- WPScan
+- JoomScan
+- Docker
+  
 ---
 
 ## Internship Progress
@@ -135,7 +153,7 @@ Each week's documentation contains:
 
 # Current Progress
 
-- Weeks Completed: **4 / 12**
+- Weeks Completed: **3 / 12**
 - Practical Labs Completed
 - Hands-on Documentation
 - Professional Reporting
