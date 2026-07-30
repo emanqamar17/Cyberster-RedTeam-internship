@@ -4,6 +4,8 @@
 
 # Week 03 – Vulnerability Assessment, Initial Exploitation & Web Application Penetration Testing
 
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Week](https://img.shields.io/badge/Week-03-blue) ![Type](https://img.shields.io/badge/Type-Active%20Assessment-orange)
+
 ## Overview
 
 Week 3 of the Cyberster Red Team Internship shifted from passive information gathering into **active enumeration, vulnerability research, and controlled exploitation**. The engagement covered advanced web directory and parameter discovery, CVE mapping against identified services, CMS security assessment of WordPress and Joomla, and hands-on exploitation using the Metasploit Framework.
@@ -13,6 +15,8 @@ Unlike Week 1's passive-only scope, this week involved direct interaction with t
 > **Target:** Metasploitable 2, VulnerableWordPress (Docker), Joomla (Docker), hackthissite.org
 > **Environment:** Kali Linux, VirtualBox Host-Only Network
 > **Engagement Type:** Vulnerability Assessment, CMS Security Assessment, Controlled Exploitation
+
+**Key Outcome:** Achieved remote code execution and a root-level shell on Metasploitable 2 via the Samba `usermap_script` vulnerability, following two unsuccessful exploitation attempts against vsftpd and UnrealIRCd.
 
 ---
 
@@ -96,6 +100,7 @@ Documentation
 | CMS Platforms Assessed | 2 |
 | Exploits Attempted | 3 |
 | Successful Exploits | 1 |
+| Highest Severity Finding | Critical – RCE via Samba `usermap_script` |
 | Internship Tasks Completed | 4 |
 
 ---
@@ -104,10 +109,10 @@ Documentation
 
 This week's activities reinforced several important offensive security concepts:
 
-- Matching a service version to a known exploit does not guarantee successful exploitation; the target environment must still be validated.
+- Matching a service version to a known exploit does not guarantee successful exploitation; the target environment must still be validated, as demonstrated by the failed vsftpd and UnrealIRCd attempts against a confirmed successful Samba exploit.
+- Failed exploitation attempts are still valuable, as they demonstrate correct verification practices and improve understanding of exploitability conditions.
 - Directory and parameter brute-forcing frequently reveals attack surfaces not visible from the main application interface.
 - CMS platforms such as WordPress and Joomla often expose usernames, debug logs, and configuration backups through default or misconfigured settings.
-- Failed exploitation attempts are still valuable, as they demonstrate correct verification practices and improve understanding of exploitability conditions.
 - A successful shell is only the beginning of an assessment; verifying access level and system context is essential before drawing conclusions.
 
 ---
