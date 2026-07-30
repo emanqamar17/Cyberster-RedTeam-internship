@@ -28,7 +28,9 @@ ffuf -u https://hackthissite.org/FUZZ \
 ### Why It Was Used
 
 FFUF provided fast, low-noise directory discovery by filtering out 404 responses, surfacing only paths worth investigating further.
+### Evidence
 
+![FFUF Directory Scan Results](images/ffuf-directory-scan-results.png)
 ---
 
 # 2. Dirsearch
