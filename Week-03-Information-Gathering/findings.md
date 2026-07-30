@@ -78,6 +78,8 @@ Exposed directories such as `/.git` and `/backup`, along with parameters like `?
 | UnrealIRCd Backdoor | Failed | Module reported target not vulnerable; no session created |
 | Samba usermap_script | Successful | `Command shell session 1 opened`; confirmed via post-exploitation verification |
 
+![Samba Exploit Root Shell Verified](images/samba-exploit-root-shell-verified.png)
+
 ### Post-Exploitation Verification (Samba usermap_script)
 
 | Command | Output |
@@ -105,6 +107,7 @@ This confirmed that the obtained shell held full root privileges on the target s
 | WP-Cron Enabled | Yes | — |
 | Vulnerable Plugins | None detected | — |
 
+![WPScan Username Enumeration](images/wpscan-username-enumeration.png)
 ---
 
 # Joomla CMS Findings
