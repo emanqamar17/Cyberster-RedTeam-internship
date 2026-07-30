@@ -226,6 +226,9 @@ wpscan --url http://127.0.0.1:8080 --enumerate vp
 
 WPScan is purpose-built for WordPress and surfaces CMS-specific misconfigurations that generic scanners would miss.
 
+### Evidence
+
+![WPScan Username Enumeration](images/wpscan-username-enumeration.png)
 ---
 
 # 9. JoomScan
@@ -311,6 +314,9 @@ uname -a
 
 Metasploit provided a controlled, repeatable way to test version-matched exploits and confirm actual exploitability rather than assuming it from version numbers alone.
 
+### Evidence
+
+![Samba Exploit Root Shell Verified](images/samba-exploit-root-shell-verified.png)
 ---
 
 # 11. Netcat
