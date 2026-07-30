@@ -28,9 +28,6 @@ ffuf -u https://hackthissite.org/FUZZ \
 ### Why It Was Used
 
 FFUF provided fast, low-noise directory discovery by filtering out 404 responses, surfacing only paths worth investigating further.
-### Evidence
-
-![FFUF Directory Scan Results](images/ffuf-directory-scan-results.png)
 ---
 
 # 2. Dirsearch
@@ -163,6 +160,9 @@ List of matching exploit titles and their local Exploit-DB paths.
 
 Searchsploit provided a fast, offline first check on exploit availability before cross-referencing NVD and Exploit-DB online.
 
+### Evidence
+
+![Searchsploit CVE Research](images/searchsploit-cve-research.png)
 ---
 
 # 7. Docker
