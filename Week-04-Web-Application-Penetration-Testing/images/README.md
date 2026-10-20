@@ -43,8 +43,3 @@
 | Figure 4.33 | RFI attempt blocked; PHP's allow_url_include is disabled |
 
 ---
-
-
-- Figure 4.0: adapter IP addresses
-- Figure 4.32: system account listing
-- Any figure showing a terminal prompt with a local username or home path
